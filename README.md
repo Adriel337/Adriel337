@@ -30,6 +30,17 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </p>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel337&layout=compact&langs_count=7&theme=dracula"
+    />
+  </a>
+  <a href="h
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adriel337&show_icons=true&count_private=true&theme=radical&hide=issues" />
+  </a>
+
 ---
 
 ### 📫 Contato
