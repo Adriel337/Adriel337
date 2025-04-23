@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Adriel Melo 👋</h1>
-<p align="center">Estudante de Engenharia da Computação | Desenvolvedor Web em formação</p>
+<p align="center">Estudante de Engenharia da Computação | Foco em Qualidade de Software (QA)</p>
 
 ---
 
