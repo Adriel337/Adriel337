@@ -37,6 +37,6 @@ Atualmente cursando Engenharia da Computação (UniNorte) e com grande interesse
 ---
 
 ### 📫 Contato
-- *E-mail:* adrielmelodev@gmail.com  
-- *LinkedIn:* [linkedin.com/in/adrielmelodev](https://linkedin.com/in/adrielmelodev)  
+- *E-mail:* adrielmiguel337@gmail.com  
+- *LinkedIn:* [linkedin.com/in/adrielmelodev]((https://www.linkedin.com/in/adriel-miguel/))  
 - *Portfólio:* (em construção)
