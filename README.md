@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Adriel Miguel 👋</h1>
+<h1 align="center">Olá! Eu sou o Adriel Melo 👋</h1>
 
 <p align="center">
   Estudante de TI focado em <strong>Quality Assurance</strong><br/>
