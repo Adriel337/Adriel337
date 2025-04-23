@@ -34,7 +34,7 @@
 
 ### 📫 Contato
 
-- *E-mail:* adriel.miguel@exemplo.com  
+- *E-mail:* adrielmiguel337@gmail.com 
 - *LinkedIn:* [linkedin.com/in/adriel-miguel](https://www.linkedin.com/in/adriel-miguel/)  
 - *Instagram:* [@adriel_miguel337](https://www.instagram.com/adriel_miguel337/)  
-- *Portfólio:* [github.com/seu-usuario](https://github.com/seu-usuario)
+- *Portfólio:* (em construção)
