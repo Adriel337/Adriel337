@@ -30,22 +30,22 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel337&layout=compact&langs_count=7&theme=dracula"
-    />
-  </a>
-  <a href="h
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adriel337&show_icons=true&count_private=true&theme=radical&hide=issues" />
-  </a>
+---
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/Adriel337">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel337&layout=compact&langs_count=7&theme=dracula" />
+</a>
+<a href="https://github.com/Adriel337">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adriel337&show_icons=true&count_private=true&theme=radical&hide=issues" />
+</a>
 
 ---
 
 ### 📫 Contato
 
-- *E-mail:* adrielmiguel337@gmail.com 
+- *E-mail:* adrielmiguel337@gmail.com  
 - *LinkedIn:* [linkedin.com/in/adriel-miguel](https://www.linkedin.com/in/adriel-miguel/)  
 - *Instagram:* [@adriel_miguel337](https://www.instagram.com/adriel_miguel337/)  
 - *Portfólio:* (em construção)
